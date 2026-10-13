@@ -1,0 +1,17 @@
+/* Self-hosted fonts (Fontsource, latin subset, OFL) */
+@font-face {
+  font-family: "Bricolage Grotesque";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200 800;
+  src: url("../fonts/bricolage-grotesque-latin-wght-normal.woff2") format("woff2-variations"),
+       url("../fonts/bricolage-grotesque-latin-wght-normal.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Work Sans";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100 900;
+  src: url("../fonts/work-sans-latin-wght-normal.woff2") format("woff2-variations"),
+       url("../fonts/work-sans-latin-wght-normal.woff2") format("woff2");
+}
